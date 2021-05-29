@@ -1,4 +1,4 @@
-Me and Runylyn Hernani
+Me and Rubylyn Hernani
 Attendance Monitoring System
 Database name final
 *Admin login*
